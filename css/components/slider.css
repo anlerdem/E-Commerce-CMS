@@ -9,6 +9,11 @@
     align-items: center
 }
 
+.slider-item a{
+    position: relative;
+    z-index: 1;
+}
+
 .slider-item .slider-image img {
     position: absolute;
     top: 0;
